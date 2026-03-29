@@ -44,21 +44,21 @@ tagline: >-
 links:
   - link:
       icon: "fa-brands fa-youtube"
-      text: "Youtube <span class='link-button-text'></span>"
+      text: "YouTube"
       url: "https://www.youtube.com/@Marxismeetchill"
-      alt: "Youtube"
-      title: "Chaîne Youtube"
+      alt: "YouTube"
+      title: "Chaîne YouTube"
       target: "_blank"
   - link:
-      icon: "fa-brands fa-medium"
-      text: "Spotify <span class='link-button-text'></span>"
+      icon: "fa-brands fa-spotify"
+      text: "Spotify"
       url: "https://open.spotify.com/show/1yj5eWPqP5wGgGtOgCOItR"
       alt: "Spotify"
       title: "Spotify"
       target: "_blank"
   - link:
-      icon: "fa-brands fa-medium"
-      text: "Deezer <span class='link-button-text'></span>"
+      icon: "fa-brands fa-deezer"
+      text: "Deezer"
       url: "https://www.deezer.com/fr/show/1002814091"
       alt: "Deezer"
       title: "Deezer"
