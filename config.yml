@@ -44,28 +44,28 @@ tagline: >-
 links:
   - link:
       icon: "fa-brands fa-youtube"
-      text: "YouTube"
+      text: "▶️ YouTube"
       url: "https://www.youtube.com/@Marxismeetchill"
       alt: "YouTube"
       title: "Chaîne YouTube"
       target: "_blank"
   - link:
       icon: "fa-brands fa-spotify"
-      text: "Spotify"
+      text: "🎧 Spotify"
       url: "https://open.spotify.com/show/1yj5eWPqP5wGgGtOgCOItR"
       alt: "Spotify"
       title: "Spotify"
       target: "_blank"
   - link:
       icon: "fa-brands fa-deezer"
-      text: "Deezer"
+      text: "🎶 Deezer"
       url: "https://www.deezer.com/fr/show/1002814091"
       alt: "Deezer"
       title: "Deezer"
       target: "_blank"
   - link:
       icon: "fa-brands fa-twitter"
-      text: "X"
+      text: "🐦 X"
       url: "https://x.com/Marxisme_Chill"
       alt: "X Marxisme et Chill"
       title: "X Marxisme et Chill"
