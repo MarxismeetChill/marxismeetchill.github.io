@@ -60,9 +60,10 @@ a {
 }
 
 .link-button {
-  display: inline-flex;
+  position: relative;
+  display: flex;
   align-items: center;
-  gap: 10px;
+  justify-content: center;
   background-color: #f0f0f0;
   color: black;
   padding: 15px;
@@ -70,6 +71,14 @@ a {
   font-size: 18px;
   font-weight: 500;
   transition: background-color 0.3s, transform 0.2s;
+}
+.link-button i {
+  position: absolute;
+  left: 15px;
+}
+
+.link-button span {
+  margin: 0 auto;
 }
 
 .link-button:hover {
