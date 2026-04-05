@@ -50,6 +50,13 @@ links:
       title: "Chaîne YouTube"
       target: "_blank"
   - link:
+      icon: "fa-brands fa-tiktok"
+      text: "TikTok"
+      url: "https://www.tiktok.com/@marxismeetchill"
+      alt: "TikTok"
+      title: "TikTok"
+      target: "_blank"
+  - link:
       icon: "fa-brands fa-spotify"
       text: "Spotify"
       url: "https://open.spotify.com/show/1yj5eWPqP5wGgGtOgCOItR"
